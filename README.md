@@ -7,4 +7,4 @@ differrnt colors using styles in various forms like RGB , HEX(hexadecimal),RGBA 
 also concepts related to margin and padding , various Positions and in  major part of my Project i have used Display concept which content 
 numerous concepts like justify-content, align-content ,align-items,flex-wrap etc.
 
-By combination of these both HTML and CSS makes the layout of project as same a real website.
+By combination of these both HTML and CSS ,the layout of project looks as same a real website.
